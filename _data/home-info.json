@@ -2,14 +2,14 @@
   "street-address": "28257 Capitola Dr",
   "city": "Hayward",
   "state": "CA",
-  "postal-code": "94545",
+  "postal-code": 94545,
   "price": "$759,888",
   "type": "Single Family Home",
-  "room-count": "4",
+  "room-count": 4,
   "bath-count": "3",
   "sqft": "1,810",
   "lot-sqft": " 5,392 ",
-  "year-built": "2000",
+  "year-built": 2000,
   "description": "",
   "photo": "images/avatar.png"
 }
